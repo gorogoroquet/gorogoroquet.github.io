@@ -11,7 +11,7 @@ div {
 }
 
 div.navigation {
-    background-color: #303030;
+    background-color: #474747;
     height:60px;
 
     padding-left: 50px;
@@ -25,14 +25,14 @@ div.navigation button {
     background-color: #000000;
     border: 0px;
 
-    color: rgb(211, 94, 94);
+    color: rgb(216, 125, 73);
     height: inherit;
     width: 120px;
     text-align: center;
 }
 
 div.navigation button:hover {
-    background-color: rgb(38, 71, 42) ;
+    background-color: rgb(143, 75, 64) ;
     color: rgb(238, 176, 62);
 }
 
@@ -132,11 +132,11 @@ p {
 
 
 
-/* 
+
 h1 {
     border: 3px solid royalblue;
 }
 
 p {
     border: 3px solid royalblue;
-} */
+}

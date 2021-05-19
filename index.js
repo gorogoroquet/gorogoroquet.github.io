@@ -1,7 +1,7 @@
 window.onload = function () {
-    var desc = ["so hungy",
-    "really really hungry",
-    "plz someone take me to subway"]; 
+    var desc = ["to make does rainbow in my mind",
+    "just the to of us, we can make if we try",
+    "wish you were again"]; 
     var index = 0;
 
     var interval = setInterval(function() {
