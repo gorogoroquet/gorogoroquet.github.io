@@ -1,5 +1,5 @@
 window.onload = function () {
-    var desc = ["to make does rainbow in my mind",
+    var desc = [document.getElementById('book1_desc').innerText, "to make does rainbow in my mind",
     "just the to of us, we can make if we try",
     "wish you were again"]; 
     var index = 0;
