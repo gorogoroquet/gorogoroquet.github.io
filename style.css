@@ -11,7 +11,7 @@ div {
 }
 
 div.navigation {
-    background-color:#303030;     /* 배경색 */
+    background-color:#acccc4;     /* 배경색 */
     height:60px;                    /* 높이 */
 
     padding-left:50px;              /* 왼쪽 여백 */
@@ -21,11 +21,11 @@ div.navigation {
     flex-direction: row;
 }
 
-div.navigation button {
-    background-color: #00000000;
+div.navigation button {  /*동그란 위 버튼탭 설정*/
+    background-color: #464545;
     border: 0px;
 
-    color: white;
+    color: #cfb4b4;
     height: inherit;
     width:120px;
     text-align: center;
@@ -37,8 +37,8 @@ a {
 
 div.navigation button:hover {
     /* 마우스 커서를 가져다 댔을 때 변화 */
-    background-color: #525252;
-    color: magenta;
+    background-color: #c4bcc4;
+    color: #c6dfdc;
 }
 
 div.navigation img {
@@ -72,8 +72,8 @@ div.navigation img {
 }
 
 #book1 {
-    background-color: #F7FAFC;
-}
+    background-color: #ffffff;
+}  /*프로필 배경색*/
 
 #book1 .contents {
     padding: 20px;
@@ -142,7 +142,7 @@ button {
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 400;
     font-size: 15px;
-    color: #0077ff;
+    color: #39b32e;
     text-align: center;
 
     /* button setting */
