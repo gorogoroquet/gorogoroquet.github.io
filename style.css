@@ -107,7 +107,7 @@ div.navigation img {
     height: inherit;
     border-radius: 70%;
 }
-
+/*두번째칸 설정*/
 #book1 .arrow {
     display: flex;
     flex-direction: row;
