@@ -3,8 +3,10 @@ var diary_idx = 1;
 
 window.onload = function () {
     var desc = [document.getElementById('book1_desc').innerText,
-    "문산수억고등학교 웹페이지 멘토링입니다.",
-    "잘 부탁드립니다!"]; // 문자열 목록
+    "Is when the sun comes shining through",
+    "To make those rainbows in my mind",
+    "When I think of you sometime",// 문자열 목록
+    "And I want to spend some time with you"];
     var index = 0;
 
     var interval = setInterval(function() {
